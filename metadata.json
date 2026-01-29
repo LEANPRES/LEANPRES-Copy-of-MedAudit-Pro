@@ -1,0 +1,14 @@
+{
+  "name": "Copy of MedAudit Pro - Gestão de Auditoria Médica",
+  "short_name": "MedAudit",
+  "description": "Sistema robusto de auditoria médica prospectiva com IA, arquitetura multi-tenant e fluxos de trabalho especializados para operadoras e auditores.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "clipboard-read",
+    "display-capture"
+  ]
+}

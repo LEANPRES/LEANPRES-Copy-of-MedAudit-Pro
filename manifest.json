@@ -1,0 +1,10 @@
+
+{
+  "name": "MedAudit Pro - Gestão de Auditoria Médica",
+  "short_name": "MedAudit",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#004e4c",
+  "theme_color": "#00995d",
+  "description": "Governança em Auditoria Médica"
+}
